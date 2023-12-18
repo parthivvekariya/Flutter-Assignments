@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1043086830792",
+    "project_id": "flutterproject-27d0b",
+    "storage_bucket": "flutterproject-27d0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043086830792:android:d9c2b90fb1b6de6a9dc9fd",
+        "android_client_info": {
+          "package_name": "com.example.chattre"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqML67JI7Nt03JClc5MqUJafiuG5KeL78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
